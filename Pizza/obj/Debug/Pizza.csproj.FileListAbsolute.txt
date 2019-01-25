@@ -85,3 +85,7 @@ C:\Users\Mateusz\source\repos\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInpu
 C:\Users\Mateusz\source\repos\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
 C:\Users\Mateusz\source\repos\Pizza\Pizza\obj\Debug\Pizza.dll
 C:\Users\Mateusz\source\repos\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Mateusz\source\repos\Pizza\Pizza\bin\EntityFramework.dll
+C:\Users\Mateusz\source\repos\Pizza\Pizza\bin\EntityFramework.SqlServer.dll
+C:\Users\Mateusz\source\repos\Pizza\Pizza\bin\EntityFramework.xml
+C:\Users\Mateusz\source\repos\Pizza\Pizza\bin\EntityFramework.SqlServer.xml
